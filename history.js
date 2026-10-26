@@ -48,6 +48,31 @@ const PODCAST_HISTORY = [
     "metadata_file": "metadata_ep3_20261025_172803.json",
     "channel": "THE MARXIAN DIALECTIC",
     "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 5,
+    "topic": "All That Is Solid Melts into Air: The Creative Destruction of Modernity",
+    "date": "2026-10-26T20:11:53.050186",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep5_20261026_194702.mp4",
+    "thumbnail_file": "thumb_ep5_20261026_194702.jpg",
+    "metadata_file": "metadata_ep5_20261026_194702.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 5,
+    "topic": "All That Is Solid Melts into Air: The Creative Destruction of Modernity",
+    "date": "2026-10-26T20:11:53.050186",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep5_20261026_194702.mp4",
+    "thumbnail_file": "thumb_ep5_20261026_194702.jpg",
+    "metadata_file": "metadata_ep5_20261026_194702.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic",
+    "youtube_url": "https://youtu.be/RCeX3olp1ao"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
