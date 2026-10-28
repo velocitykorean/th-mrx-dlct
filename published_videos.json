@@ -96,5 +96,30 @@
     "metadata_file": "metadata_ep7_20261027_195002.json",
     "channel": "THE MARXIAN DIALECTIC",
     "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 9,
+    "topic": "The Young Hegelians and the Inversion: The Eleventh Thesis on Feuerbach",
+    "date": "2026-10-28T19:47:41.772003",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep9_20261028_192234.mp4",
+    "thumbnail_file": "thumb_ep9_20261028_192234.jpg",
+    "metadata_file": "metadata_ep9_20261028_192234.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 9,
+    "topic": "The Young Hegelians and the Inversion: The Eleventh Thesis on Feuerbach",
+    "date": "2026-10-28T19:47:41.772003",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep9_20261028_192234.mp4",
+    "thumbnail_file": "thumb_ep9_20261028_192234.jpg",
+    "metadata_file": "metadata_ep9_20261028_192234.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic",
+    "youtube_url": "https://youtu.be/dDVxVxAly54"
   }
 ]
