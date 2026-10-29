@@ -121,5 +121,29 @@
     "channel": "THE MARXIAN DIALECTIC",
     "handle": "@TheMarxianDialectic",
     "youtube_url": "https://youtu.be/dDVxVxAly54"
+  },
+  {
+    "episode": 11,
+    "topic": "The Riddle of Alienation: How Modern Work Estranges Us from Our Humanity",
+    "date": "2026-10-29T19:54:37.057395",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep11_20261029_192653.mp4",
+    "thumbnail_file": "thumb_ep11_20261029_192653.jpg",
+    "metadata_file": "metadata_ep11_20261029_192653.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 11,
+    "topic": "The Riddle of Alienation: How Modern Work Estranges Us from Our Humanity",
+    "date": "2026-10-29T19:54:37.057395",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep11_20261029_192653.mp4",
+    "thumbnail_file": "thumb_ep11_20261029_192653.jpg",
+    "metadata_file": "metadata_ep11_20261029_192653.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
   }
 ]
