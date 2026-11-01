@@ -195,6 +195,30 @@ const PODCAST_HISTORY = [
     "metadata_file": "metadata_ep15_20261031_181655.json",
     "channel": "THE MARXIAN DIALECTIC",
     "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 17,
+    "topic": "The Tendency of the Rate of Profit to Fall: The Inherent Crisis of Capital",
+    "date": "2026-11-01T19:12:54.751577",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep17_20261101_184736.mp4",
+    "thumbnail_file": "thumb_ep17_20261101_184736.jpg",
+    "metadata_file": "metadata_ep17_20261101_184736.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 17,
+    "topic": "The Tendency of the Rate of Profit to Fall: The Inherent Crisis of Capital",
+    "date": "2026-11-01T19:12:54.751577",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep17_20261101_184736.mp4",
+    "thumbnail_file": "thumb_ep17_20261101_184736.jpg",
+    "metadata_file": "metadata_ep17_20261101_184736.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
