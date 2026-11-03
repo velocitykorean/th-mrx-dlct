@@ -69,9 +69,9 @@ MAX_WORDS_PER_CHUNK = 14
 MAX_CHARS_PER_LINE = 28
 
 # AI Generation Settings
-POLLINATIONS_API_KEY = os.environ.get("POLLINATIONS_API_KEY", "sk_B0I1QMA8hWP14sICrnx1S1pt8riQdpLZ")
+POLLINATIONS_API_KEY = os.environ.get("POLLINATIONS_API_KEY")
 POLLINATIONS_ENDPOINT = "https://gen.pollinations.ai/v1/chat/completions"
-POLLINATIONS_MODEL = "gemini-fast"
+POLLINATIONS_MODEL = "openai/gpt-5.4-nano"
 NICHE_PROMPT = "Profound philosophical and economic contemplation on Karl Marx's critique of political economy, historical materialism, alienation, commodity fetishism, the nature of labor and surplus value, and the dialectical trajectory of human emancipation, narrated with intellectual authority, historical depth, and poetic gravitas."
 
 # Typography Candidates
