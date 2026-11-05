@@ -292,5 +292,29 @@
     "channel": "THE MARXIAN DIALECTIC",
     "handle": "@TheMarxianDialectic",
     "youtube_url": "https://youtu.be/zMe9ojWHWeA"
+  },
+  {
+    "episode": 25,
+    "topic": "All That Is Solid Melts into Air: The Creative Destruction of Modernity",
+    "date": "2026-11-05T21:28:21.317386",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep25_20261105_210247.mp4",
+    "thumbnail_file": "thumb_ep25_20261105_210247.jpg",
+    "metadata_file": "metadata_ep25_20261105_210247.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 25,
+    "topic": "All That Is Solid Melts into Air: The Creative Destruction of Modernity",
+    "date": "2026-11-05T21:28:21.317386",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep25_20261105_210247.mp4",
+    "thumbnail_file": "thumb_ep25_20261105_210247.jpg",
+    "metadata_file": "metadata_ep25_20261105_210247.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
   }
 ]
