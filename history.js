@@ -488,6 +488,31 @@ const PODCAST_HISTORY = [
     "metadata_file": "metadata_ep39_20261112_212119.json",
     "channel": "THE MARXIAN DIALECTIC",
     "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 41,
+    "topic": "The Riddle of Alienation: How Modern Work Estranges Us from Our Humanity",
+    "date": "2026-11-13T21:13:48.930229",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep41_20261113_204805.mp4",
+    "thumbnail_file": "thumb_ep41_20261113_204805.jpg",
+    "metadata_file": "metadata_ep41_20261113_204805.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 41,
+    "topic": "The Riddle of Alienation: How Modern Work Estranges Us from Our Humanity",
+    "date": "2026-11-13T21:13:48.930229",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep41_20261113_204805.mp4",
+    "thumbnail_file": "thumb_ep41_20261113_204805.jpg",
+    "metadata_file": "metadata_ep41_20261113_204805.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic",
+    "youtube_url": "https://youtu.be/JDc7q87wymU"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
