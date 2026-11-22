@@ -708,6 +708,30 @@ const PODCAST_HISTORY = [
     "metadata_file": "metadata_ep57_20261121_202439.json",
     "channel": "THE MARXIAN DIALECTIC",
     "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 59,
+    "topic": "The Young Hegelians and the Inversion: The Eleventh Thesis on Feuerbach",
+    "date": "2026-11-22T21:03:17.994837",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep59_20261122_203650.mp4",
+    "thumbnail_file": "thumb_ep59_20261122_203650.jpg",
+    "metadata_file": "metadata_ep59_20261122_203650.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 59,
+    "topic": "The Young Hegelians and the Inversion: The Eleventh Thesis on Feuerbach",
+    "date": "2026-11-22T21:03:17.994837",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep59_20261122_203650.mp4",
+    "thumbnail_file": "thumb_ep59_20261122_203650.jpg",
+    "metadata_file": "metadata_ep59_20261122_203650.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
