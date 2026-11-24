@@ -756,6 +756,30 @@ const PODCAST_HISTORY = [
     "metadata_file": "metadata_ep61_20261124_013037.json",
     "channel": "THE MARXIAN DIALECTIC",
     "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 63,
+    "topic": "Historical Materialism: Why Technology and Economics Drive Human Destiny",
+    "date": "2026-11-24T23:45:43.423486",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep63_20261124_232501.mp4",
+    "thumbnail_file": "thumb_ep63_20261124_232501.jpg",
+    "metadata_file": "metadata_ep63_20261124_232501.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
+  },
+  {
+    "episode": 63,
+    "topic": "Historical Materialism: Why Technology and Economics Drive Human Destiny",
+    "date": "2026-11-24T23:45:43.423486",
+    "duration_sec": 1294.76,
+    "duration_min": 21.58,
+    "video_file": "marx_ep63_20261124_232501.mp4",
+    "thumbnail_file": "thumb_ep63_20261124_232501.jpg",
+    "metadata_file": "metadata_ep63_20261124_232501.json",
+    "channel": "THE MARXIAN DIALECTIC",
+    "handle": "@TheMarxianDialectic"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
